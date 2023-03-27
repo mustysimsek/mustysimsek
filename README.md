@@ -5,4 +5,4 @@
 - 🤔 I'm looking for a role where I can fully develop my skills in this direction.
 - 📫 How to reach me: musty_simsek@hotmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://www.linkedin.com/in/mustafasmsek/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-FF9800?style=flat-quare&labelColor=FF9800&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mustafasmsek/)
