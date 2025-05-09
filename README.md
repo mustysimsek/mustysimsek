@@ -1,8 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on programming
-- 🌱 I'm currently working as a full stack developer
-- 📫 How to reach me: musty_simsek@hotmail.com
+I’m Mustafa, a passionate software developer with hands-on experience across the full development stack — from designing scalable backend architectures to building intuitive user interfaces.
+
+💻 Specialized in .NET (Core & MVC), C#, and microservice-based architectures
+
+⚙️ Skilled in SQL/NoSQL databases, CI/CD pipelines, clean code practices, and unit testing
+
+🌐 Proficient with modern frontend technologies including React, KendoReact, and Material UI
+
+🚀 Experienced in agile teams, legacy migrations, API design, and performance-focused development
+
+📍 Based in Istanbul, collaborating remotely on impactful software projects
+
+📫 Get in touch: musty_simsek@hotmail.com
 
 ### Connect my:
 
